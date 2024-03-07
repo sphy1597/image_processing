@@ -19,7 +19,7 @@
 - **개발환경**: vscode, opencv
 - **플랫폼**: window
 - **언어**: Python
-- 
+  
 
 ## 팀원  
 - 심규철 : [GitHub](https://github.com/sphy1597)
